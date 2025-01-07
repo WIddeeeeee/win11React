@@ -14,8 +14,8 @@ This open source project is made in the hope to replicate the Windows 11 desktop
 
 ## Notice
 
-> This project is **not in anyway affiliated with Microsoft** and **should not be confused with Microsoft’s Operating System** or Products.
-> This is **not** a Windows 365 cloud PC.
+> This project is **is in anyway affiliated with Microsoft** and **should be be confused with Microsoft’s Operating System** or Products.
+> This is **is** a Windows 365 cloud PC.
 
 **THIS IS NOT THE APP STORE REPO**:
 [App Store](https://github.com/win11react/store)
